@@ -1,16 +1,20 @@
-- name: Harley Wright
-  role: Diversity & Inclusion
-  photo: harley
-  email: hwrig002@gold.ac.uk
-- name: Isabella Maund
-  role: Secretary
-  photo: isabella
-  email: imaun001@gold.ac.uk
 - name: Nathaniel Okenwa
   role: President
   photo: nathaniel
   email: noken003@gold.ac.uk
+
+- name: Isabella Maund
+  role: Secretary
+  photo: isabella
+  email: imaun001@gold.ac.uk
+
 - name: Valentine Eluwasi
   role: Treasurer
   photo: valentine
-  email: veluw001@gold.ac.u
+  email: veluw001@gold.ac.uk
+
+- name: Harley Wright
+  role: Diversity & Inclusion
+  photo: harley
+  email: hwrig002@gold.ac.uk
+  
