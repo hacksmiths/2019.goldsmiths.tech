@@ -67,7 +67,7 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
 <section class="events">
     <div class="container">
         <div class="row">
-            <h2>2017-2018 Events</h2>
+            <h2>Upcoming Events</h2>
             <div class="upcoming">
                 {% for event in site.data.events %}
                     {% unless event.past %}
@@ -86,6 +86,22 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
             <img src="/assets/img/community-white.svg" alt="Hacksmiths Community Series">
             <p>Get mentorship, support, exposure and budget to run your tech-focussed events</p>
             <a href="/community" class="btn type--uppercase btn--primary">Find out more</a>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <h2>Past Events</h2>
+            <div class="past">
+                {% for event in site.data.events %}
+                    {% if event.past %}
+                        <a class="event-single {% if event.community %} c {% endif %}" href="{{event.url}}">
+                            <h5>{{event.name}}</h5>
+                            <p>{{event.line}}</p>
+                            <small>{{event.date}}</small>
+                        </a>
+                    {% endif %}
+                {% endfor %}
+            </div>
         </div>
     </div>
 </section>
