@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - name: DoC.Hack 2017
   line: A hackday for all members of the Gold Computing community.
   date: September 26 2017
@@ -136,7 +137,15 @@
   date: May 8 2018
   url: https://www.facebook.com/events/189915378400758/
 
+=======
+>>>>>>> 35843504abb33dc9f40438da807246597284336c
 - name: Trip - EMFCamp 2018
   line: Trip to a hacker camping festival with over 2000 other techies.
   date: Aug 31 - Sept 2 2018
   url: https://www.facebook.com/events/1908454816135844/
+
+
+- name: DoC.Hack 2018
+  line: A hackday for all members of the Gold Computing community.
+  date: 25 September 2018
+  url: /doc
