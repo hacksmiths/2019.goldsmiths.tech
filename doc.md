@@ -1,7 +1,6 @@
 ---
-title: DoC.Hack 2017
-when: 26 Sep 2017
-past: true
+title: DoC.Hack 2018
+when: 25 Sep 2018
 layout: project
 projectname: doc-hack
 og: projects/doc-hack/og.png
