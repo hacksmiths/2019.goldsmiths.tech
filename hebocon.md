@@ -1,7 +1,6 @@
 ---
 title: Hebocon London 2017
 when: 3 Oct 2017
-past: true
 layout: project
 projectname: hebocon
 og: projects/hebocon/og.png
