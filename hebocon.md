@@ -1,6 +1,6 @@
 ---
 title: Hebocon London 2017
-when: 4 Oct 2017
+when: 3 Oct 2017
 past: true
 layout: project
 projectname: hebocon
@@ -10,7 +10,7 @@ one_line: Learn basic electronics to build a crappy robot and fight in a crappy 
 tagline: Anyone can build a robot...
 description: "<p>Hebocon is Robot Wars for those who are not technically gifted. Crappy
   robots that can just barely move will somehow manage to engage in odd, awkward battles.
-  Bring along a robot or just come and watch.</p><p>Last year we ran London's first
+  Bring along a robot or just come and watch.</p><p>Last year we ran an amazing
   Hebocon, and now we're back for another!</p><p>We'll be providing a beginner-level
   electronics workshop and basic kit required, but feel free to bring your own or
   additional props (lamps, balls, robot toy dogs etc)."
