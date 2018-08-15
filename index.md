@@ -30,12 +30,6 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
                 <div class="boxed boxed--lg boxed--border">
                     <div class="feature feature-2">
                         <div class="feature__body">
-                            <h5>Weekly Code &amp; Craft</h5>
-                            <p>A friendly and supportive environment to play around with new ideas and get support. Suitable for all skill levels.<br></p>
-                        </div>
-                    </div>
-                    <div class="feature feature-2">
-                        <div class="feature__body">
                             <h5>Monthly talks &amp; workshops</h5>
                             <p> A range of interesting content from students, staff and industry professionals. Suitable for complete beginners.</p>
                         </div>
