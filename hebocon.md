@@ -1,6 +1,6 @@
 ---
-title: Hebocon London 2017
-when: 3 Oct 2017
+title: Hebocon London 2018
+when:  Oct 2018
 layout: project
 projectname: hebocon
 og: projects/hebocon/og.png
@@ -13,7 +13,6 @@ description: "<p>Hebocon is Robot Wars for those who are not technically gifted.
   Hebocon, and now we're back for another!</p><p>We'll be providing a beginner-level
   electronics workshop and basic kit required, but feel free to bring your own or
   additional props (lamps, balls, robot toy dogs etc)."
-time: 16:00 - 19:00
 address: RHB 304<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: HeboconLdn
 buttons:
