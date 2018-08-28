@@ -9,7 +9,7 @@
   url: /doc
 
 - name: Hebocon London 2018
-  line: Learn basic electronics to build a crappy robot and fight in a crappy Robot Wars style battle! Absolutely no skill needed.
+  line: The best worst robot competition. Build them from trash and fight!
   date: 3 October 2018
   url: /hebocon
 
@@ -18,3 +18,7 @@
   date: 17 October 2018
   url: /monthly
 
+- name: Lovelace - Hello World
+  line: A social for women and non binary people interested in creative tech
+  date: To be Confirmed
+  url: /lovelace
