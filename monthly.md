@@ -13,7 +13,10 @@ description: |
   <p>Never written a line of code before and want to learn how to build a website? We'll show you the tips and techniques to build your own portfolio website or blog.</p>
   <a href="#" class="btn type--uppercase btn--primary">Get Your Tickets Here</a>
 
-time: 17:00 - 19:00
+  <h4>Working with Git</h4>
+  <p>A beginners guide to Open Source culture and workflow</p>
+  <a href="#" class="btn type--uppercase btn--primary">More info coming soon</a>
+
 address: RHB 304<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: hacksmiths
 supporters:
