@@ -21,6 +21,10 @@ supporters:
 - name: doc
 - name: goldsu
 show_support_text: false
+buttons:
+- name: Get a Free Ticket!
+  type: primary
+  url: https://www.eventbrite.com/e/goldsmiths-doc-hack-tickets-50221557029?aff=HacksmithsWebsite
 ---
 
 <hr>
