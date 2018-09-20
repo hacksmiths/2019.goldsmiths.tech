@@ -17,7 +17,7 @@ description: |
 
   <h3>Working with Git - 14 Nov 2018</h3>
   <p>Tired of having your code files named “final”, “final-final”, “really-really-final”? Annoyed when you accidentally delete that one line that made your entire app work and now you can’t figure out which one it was? Join us in learning how to git better with Git and GitHub, the piece of technology that would break all of the internet if it ceased to exist.</p>
-  <p>Presented by your Goldsmiths’ GitHub Campus Expert and his majestic beard"</p>
+  <p>Presented by your Goldsmiths’ GitHub Campus Expert and his majestic beard</p>
   <a href="#" class="btn type--uppercase btn--primary">More info coming soon</a>
 
 address: RHB 304<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
