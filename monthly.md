@@ -20,7 +20,7 @@ description: |
   <p>Presented by your Goldsmiths’ GitHub Campus Expert and his majestic beard</p>
   <a href="#" class="btn type--uppercase btn--primary">More info coming soon</a>
 
-address: RHB 304<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
+address: <br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: hacksmiths
 supporters:
 - name: doc

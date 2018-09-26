@@ -13,9 +13,12 @@ description: "<p>Hebocon is Robot Wars for those who are not technically gifted.
   Hebocon, and now we're back for another!</p><p>We'll be providing a beginner-level
   electronics workshop and basic kit required, but feel free to bring your own or
   additional props (lamps, balls, robot toy dogs etc)."
+time: 16:00-19:00
 address: RHB 304<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: HeboconLdn
 buttons:
+- name: Get your Tickets now!
+  url: https://www.eventbrite.co.uk/e/hebocon-london-2018-tickets-50685490667
 - name: What is Hebocon (video)
   url: https://www.youtube.com/watch?v=46ivFpsmEVQ
 show_support_text: true

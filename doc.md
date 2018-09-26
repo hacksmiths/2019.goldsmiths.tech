@@ -1,6 +1,7 @@
 ---
 title: DoC.Hack 2018
 when: 25 Sep 2018
+past: true
 layout: project
 projectname: doc-hack
 og: projects/doc-hack/og.png
