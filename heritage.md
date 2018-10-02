@@ -1,6 +1,6 @@
 ---
 title: Heritage Hack
-when: 17 Nov 2018
+when: 17 -18 Nov 2018
 layout: project
 projectname: heritage
 og: projects/heritage/og.png
@@ -14,6 +14,9 @@ supporters:
 - name: goldsmiths
 - name: doc
 - name: goldsu
+buttons:
+- name: Get your Tickets now!
+  url: https://www.eventbrite.co.uk/e/heritage-hack-tickets-50900457639
 show_support_text: false
 ---
 
@@ -35,6 +38,10 @@ show_support_text: false
           <h5>What should I bring?</h5>
           <p>All participants will need to bring their laptop, charger(s) and any other devices they wish to work on.</p>
         </div>
+        <div class="text-block">
+          <h5>Do I have to stay overnight?</h5>
+          <p>No, it is not a requisite to stay over. If you would like to stay though, we'll have a small number of airbeds available. We recommend you bring sleeping bags, pillows, and a change of clothes.</p>
+        </div>
       </div>
       <div class="col-md-4">
         <div class="text-block">
@@ -49,15 +56,23 @@ show_support_text: false
           <h5>Do I need a team?</h5>
           <p>You don’t need a team to take part; it’s perfectly acceptable to create a solo project. However, during the event itself, there will be opportunities to share ideas and connect with your fellow hackers to form a team. As organisers, we’ll do our best to encourage and facilitate teamwork across the weekend.</p>
         </div>
+        <div class="text-block">
+          <h5>Can I start before?</h5>
+          <p>While you can explore ideas before the event, you shouldn't start your project before the event itself and still enter the challenges. If you want to bring an existing project to the table, we encourage full disclosure and honesty.</p>
+        </div>
       </div>
       <div class="col-md-4">
         <div class="text-block">
           <h5>What's the deal with food?</h5>
-          <p>We'll bring the snacks.</p>
+          <p>All food across the weekend will be provided. That is: lunch and dinner on Saturday, breakfast and lunch on Sunday. All dietary requirements will be considered and catered for - please make sure you provide this information upon registering.</p>
         </div>
         <div class="text-block">
           <h5>Is there a Code of Conduct?</h5>
           <p>Yes, and you must agree to it before attending. You can find it <a href="https://github.com/hacksmiths/code-of-conduct">here</a>.</p>
+        </div>
+                <div class="text-block">
+          <h5>Can I come if I'm under 18?</h5>
+          <p>Yup, you just have to tell us when grabbing a ticket. If you're under 16, you'll need a parent to accompany you. If you're 16 or 17, we'll just need to have a quick chat with your parent/guardian on the phone and a completed permission slip. We'll arrange this over email.</p>
         </div>
         <div class="text-block">
           <h5>I have another question</h5>
