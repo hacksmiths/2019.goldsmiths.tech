@@ -12,13 +12,14 @@
 
 - name: Hebocon London 2018
   line: The best worst robot competition. Build them from trash and fight!
-  date: 3 October 2018
+  date: 12 October 2018
   url: /hebocon
 
 - name: Hacksmiths Visits Samsung Internet's Hacktoberfest
   line: Come join the Samsung Internet and Friends for a Hacktoberfest Hack Night at the Microsoft Reactor Space!
   date: 5 October 2018
   url: https://www.facebook.com/events/247996496058198/
+  past: true
 
 - name: Workshop - Web Design 101
   line: Learn the skills and techniques for building your first website
