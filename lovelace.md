@@ -14,15 +14,7 @@ description: |
   <p>Get your tickets to the first Lovelace event of the Year!</p>
   <a href="https://www.eventbrite.co.uk/e/lovelace-october-2018-tickets-50166839367" class="btn type--uppercase btn--primary">Get Your Tickets Here</a>
 
-
-  <!--<div class="schedule">
-  <h3>Schedule for December 7 event</h3>
-  <p><b>17:00-17:15</b> Arrival & Check In</p>
-  <p><b>17:15-18:00</b> Icebreaker activities</p>
-  <p><b>18:00-19:15</b> Talks & games</p>
-  <p><b>19:30-20:00</b> Networking & snacks</p>
-  </div>-->
-time: 5-8pm
+time: 6-8pm
 address: Different room for each event<br>Goldsmiths, University of London
 hashtag: GSLovelace
 supporters:

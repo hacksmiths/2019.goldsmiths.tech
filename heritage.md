@@ -14,6 +14,10 @@ supporters:
 - name: goldsmiths
 - name: doc
 - name: goldsu
+- name: historysociety
+- name: hornimanmuseum
+- name: lewishamlocalhistorysociety
+- name: brockleysociety
 buttons:
 - name: Get your Tickets now!
   url: https://www.eventbrite.co.uk/e/heritage-hack-tickets-50900457639

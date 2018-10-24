@@ -14,6 +14,7 @@
   line: The best worst robot competition. Build them from trash and fight!
   date: 12 October 2018
   url: /hebocon
+  past: true
 
 - name: Hacksmiths Visits Samsung Internet's Hacktoberfest
   line: Come join the Samsung Internet and Friends for a Hacktoberfest Hack Night at the Microsoft Reactor Space!
@@ -25,6 +26,7 @@
   line: Learn the skills and techniques for building your first website
   date: 17 October 2018
   url: /monthly
+  past: true
 
 - name: Lovelace - Hello World
   line: A social for women and non binary people interested in creative tech
