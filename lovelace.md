@@ -15,7 +15,7 @@ description: |
   <a href="https://www.eventbrite.co.uk/e/lovelace-october-2018-tickets-50166839367" class="btn type--uppercase btn--primary">Get Your Tickets Here</a>
 
 time: 6-8pm
-address: RHB 140<br>Goldsmiths, University of London
+address: Different Room for every event<br>Goldsmiths, University of London
 hashtag: GSLovelace
 supporters:
 - name: goldsmiths

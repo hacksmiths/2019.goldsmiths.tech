@@ -32,6 +32,7 @@
   line: A social for women and non binary people interested in creative tech
   date: 24 October 2018
   url: /lovelace
+  past: true
 
 - name: Workshop - Working With Git
   line: A beginners guide to Open Source culture and workflow
