@@ -8,21 +8,15 @@
   photo: katie
   email: kwhit006@gold.ac.uk
 
-- name: Markela Zeneli
-  role: Committee Member
-  photo: markela
-  email: mzene001@gold.ac.uk
-
-
 - name: Isabella Maund
   role: Secretary
   photo: isabella
   email: imaun001@gold.ac.uk
 
-- name: Ben Henshaw
+- name: Markela Zeneli
   role: Committee Member
-  photo: ben
-  email: bhens001@gold.ac.uk
+  photo: markela
+  email: mzene001@gold.ac.uk
 
 - name: Valentine Eluwasi
   role: Treasurer
@@ -38,6 +32,11 @@
   role: Diversity & Inclusion
   photo: harley
   email: hwrig002@gold.ac.uk
+
+- name: Ben Henshaw
+  role: Committee Member
+  photo: ben
+  email: bhens001@gold.ac.uk
 
 - name: Taran Feaver
   role: Committee Member
