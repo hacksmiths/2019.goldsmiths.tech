@@ -28,11 +28,15 @@
   url: /monthly
   past: true
 
-- name: Lovelace - Hello World
-  line: A social for women and non binary people interested in creative tech
-  date: 24 October 2018
-  url: /lovelace
-  past: true
+- name: Hacksmiths Monthly Social - Spooky edition!
+  line: The first Hacksmiths monthly social on Halloween, so we are going to do some spooky stuff.
+  date: 31 October 2018
+  url: https://www.facebook.com/events/282968879211070/
+  
+- name: Hacksmiths Visits - Hack your Way Up!
+  line: Fun evening event in London inspired by Hacker Olympics on November 6
+  date: 6 November 2018
+  url: http://resources.hired.com/hackyourwayup/?fbclid=IwAR0V8ZeLl4n4aFYxmq3fsl7jdamuo1KqR2xyrA48A-1LsodiVDp25oAyr2E
 
 - name: Workshop - Working With Git
   line: A beginners guide to Open Source culture and workflow
@@ -43,3 +47,14 @@
   line: A two-day invention marathon to create novel, impactful tech solutions that breathe new life into Lewisham’s past.
   date: 17-18 November 2018
   url: /heritage
+
+- name: Hacksmiths Visits - Clamour!
+  line: Digital artist and Goldsmiths Lecturer Simon Katan present Clamour, an interactive mixed media theatre piece.
+  date: 22 November
+  url: http://www.roundhouse.org.uk/whats-on/2018/clamour/
+
+
+- name: Lovelace - Hello World
+  line: A social for women and non binary people interested in creative tech
+  date:  .
+  url: /lovelace
