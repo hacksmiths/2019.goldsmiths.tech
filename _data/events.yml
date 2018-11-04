@@ -32,6 +32,7 @@
   line: The first Hacksmiths monthly social on Halloween, so we are going to do some spooky stuff.
   date: 31 October 2018
   url: https://www.facebook.com/events/282968879211070/
+  past: true
   
 - name: Hacksmiths Visits - Hack your Way Up!
   line: Fun evening event in London inspired by Hacker Olympics on November 6
