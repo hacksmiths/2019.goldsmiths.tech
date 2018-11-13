@@ -38,6 +38,7 @@
   line: Fun evening event in London inspired by Hacker Olympics on November 6
   date: 6 November 2018
   url: http://resources.hired.com/hackyourwayup/?fbclid=IwAR0V8ZeLl4n4aFYxmq3fsl7jdamuo1KqR2xyrA48A-1LsodiVDp25oAyr2E
+  past: true
 
 - name: Workshop - Working With Git
   line: A beginners guide to Open Source culture and workflow
