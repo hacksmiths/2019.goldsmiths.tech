@@ -30,7 +30,7 @@ links:
 - name: 2017-2018 Prospectus
   desc: A visual rundown of our events in the 2017-2018 year
   url: "/assets/files/prospectus.pdf"
-- name: 2017-2018 Tiers
+- name: 2018-2019 Tiers
   desc: Our pricing document for our 2017-2018 events.
   url: "/assets/files/tiers.pdf"
 - name: Padlock
