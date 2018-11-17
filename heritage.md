@@ -21,6 +21,8 @@ supporters:
 buttons:
 - name: Get your Tickets now!
   url: https://www.eventbrite.co.uk/e/heritage-hack-tickets-50900457639
+- name: Useful Info
+  url: https://docs.google.com/document/d/1FZ6SiBHCrSJcCBUfBJzDpDFR1A-SADHS6Hx0TpXzPmo/edit?usp=sharing
 show_support_text: false
 ---
 
