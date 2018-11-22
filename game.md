@@ -97,7 +97,7 @@ buttons:
         </div>
         <div class="text-block">
           <h5>I have another question</h5>
-          <p>Please contact us on <a href="mailto:team@goldsmiths.tech">iphil011@gold.ac.uk</a>.</p>
+          <p>Please contact us on <a href="mailto:team@goldsmiths.tech">team@goldsmiths.tech</a>.</p>
         </div>
       </div>
     </div>
