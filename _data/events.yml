@@ -44,6 +44,7 @@
   line: A beginners guide to Open Source culture and workflow
   date: 14 November 2018
   url: /monthly
+  past: true
 
 - name: Heritage Hack
   line: A two-day invention marathon to create novel, impactful tech solutions that breathe new life into Lewisham’s past.
