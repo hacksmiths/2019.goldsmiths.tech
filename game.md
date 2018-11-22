@@ -1,6 +1,6 @@
 ---
-title: Global Game Jam 2018
-when: 26-28 Jan 2018
+title: Global Game Jam 2019
+when: 25-27 Jan 2019
 layout: project
 projectname: game
 og: projects/game/og.png
@@ -23,27 +23,11 @@ description: |
   which contains lots of tools for prototyping tabletop games (such as cards, counters
   and meeples).</p><p>Whatever your skil level, Global Game Jam at Goldsmiths is accessible
   to you.</p>
-  <div class="schedule">
-  <h3>Friday 26 January</h3>
-  <p><b>15:00</b> Doors open, play games!</p>
-  <p><b>17:00</b> Theme reveal</p>
-  <p><b>18:00</b> Idea sharing, team building</p>
-  <p><b>20:00</b> Breakout workshop: Storytelling</p>
-  <p><b>21:00</b> Breakout workshop: Unity</p>
-  <p><b>22:00</b> Breakout workshop: WebVR</p>
-  <p><b>23:00</b> Breakout workshop: Twine</p><br>
-  <h3>Saturday 27 January</h3>
-  <p><b>All day</b> Building</p><br>
-  <h3>Sunday 28 January</h3>
-  <p><b>12:00</b> Show & Tell</p>
-  <p><b>14:00</b> Event end and social</p>
-  </div>
 supporters:
 - name: goldsmiths
 - name: doc
 - name: goldsu
 show_support_text: true
-past: true
 buttons:
 - name: 2018 Highlights
   url: https://medium.com/hacksmiths/global-game-jam-2018-at-goldsmiths-a-retrospective-e64334e69511
