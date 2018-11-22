@@ -33,6 +33,8 @@ buttons:
   url: https://medium.com/hacksmiths/global-game-jam-2018-at-goldsmiths-a-retrospective-e64334e69511
 - name: 2017 Highlights
   url: https://storify.com/jeremygow/goldsmiths-global-game-jam-2017
+- name: Would you like to Support Us?
+  url: /contact
 ---
 
 <hr>
