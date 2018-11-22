@@ -10,6 +10,7 @@ description: <p>Join Hacksmiths for a two-day invention marathon to create novel
 time: 10am Sat - 3pm Sun
 address: RHB 300/300A<br>Goldsmiths, University of London<br>SE14 6NW
 hashtag: heritagehack
+past: true
 supporters:
 - name: goldsmiths
 - name: doc

@@ -2,6 +2,7 @@
 title: Hebocon London 2018
 when:  Oct 2018
 layout: project
+past: true
 projectname: hebocon
 og: projects/hebocon/og.png
 one_line: Learn basic electronics to build a crappy robot and fight in a crappy Robot

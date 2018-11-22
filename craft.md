@@ -3,6 +3,7 @@ title: Code & Craft
 when: Every Wednesday
 layout: project
 projectname: craft
+past: true
 og: "/projects/craft/og.png"
 one_line: Weekly space to play with technology, for everyone.
 tagline: Whatever your skills, this is for you.

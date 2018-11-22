@@ -49,14 +49,16 @@
   line: A two-day invention marathon to create novel, impactful tech solutions that breathe new life into Lewisham’s past.
   date: 17-18 November 2018
   url: /heritage
+  past: true
 
 - name: Hacksmiths Visits - Clamour!
   line: Digital artist and Goldsmiths Lecturer Simon Katan present Clamour, an interactive mixed media theatre piece.
   date: 22 November
   url: http://www.roundhouse.org.uk/whats-on/2018/clamour/
+  past: true
 
 
-- name: Lovelace - Hello World
+- name: Lovelace
   line: A social for women and non binary people interested in creative tech
-  date:  .
+  date: 5 December 2018
   url: /lovelace
