@@ -34,8 +34,9 @@ buttons:
   url: https://medium.com/hacksmiths/global-game-jam-2018-at-goldsmiths-a-retrospective-e64334e69511
 - name: 2017 Highlights
   url: https://storify.com/jeremygow/goldsmiths-global-game-jam-2017
-- name: Get your Tickets!!
+- name: Get your Tickets Free Now!!
   url: https://www.eventbrite.co.uk/e/global-game-jam-2019-at-goldsmiths-tickets-54704775456
+---
 
 
 <hr>
