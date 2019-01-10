@@ -27,15 +27,16 @@ supporters:
 - name: goldsmiths
 - name: doc
 - name: goldsu
+- name: foundry
 show_support_text: true
 buttons:
 - name: 2018 Highlights
   url: https://medium.com/hacksmiths/global-game-jam-2018-at-goldsmiths-a-retrospective-e64334e69511
 - name: 2017 Highlights
   url: https://storify.com/jeremygow/goldsmiths-global-game-jam-2017
-- name: Would you like to Support Us?
-  url: /contact
----
+- name: Get your Tickets!!
+  url: https://www.eventbrite.co.uk/e/global-game-jam-2019-at-goldsmiths-tickets-54704775456
+
 
 <hr>
 <section class="project-faq">
