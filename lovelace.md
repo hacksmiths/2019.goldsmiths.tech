@@ -21,6 +21,7 @@ supporters:
 - name: goldsmiths
 - name: doc
 - name: goldsu
+- name: alumni
 show_support_text: true
 buttons:
 - name: Facebook Community
