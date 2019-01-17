@@ -38,7 +38,7 @@ description: |
   <p><b>10:00 - 11:00</b>Workshop - Unity Feedback Sessions. Liz Mercuri from Unity will be on hand to give feedback and suggestions on work in progress.</p>
   <p><b>12:00 - 13:00</b>Workshop -  Ducks & Pants, branching narratives & Twine. Led by Raymond Vermuelen. This hands-on workshop teaches the basics of writing branching stories using the Twine platform, and serves as a primer on interactive fiction for writers of all experience levels. If you've ever wanted to learn about writing stories with multiple endings, here's your chance.</p>
   <p><b>13:00</b> Lunch</p>
-  <p><b>14:00</b> Workshop - Foundry. Representatives from the Foundry will be on hand to give a session on using their technolgy to bring your visual creations to life</p>
+  <p><b>14:00</b> Workshop - Foundry. Representatives from the Foundry will be on hand to give a session on using their technology to bring your visual creations to life</p>
   <p><b>18:00</b> Dinner</p>
   <br><h3>Sunday</h3>
   <p><b>08:00</b> Breakfast</p>
@@ -58,8 +58,6 @@ buttons:
   url: https://medium.com/hacksmiths/global-game-jam-2018-at-goldsmiths-a-retrospective-e64334e69511
 - name: 2017 Highlights
   url: https://storify.com/jeremygow/goldsmiths-global-game-jam-2017
-- name: Check out the Schedule
-  url: 
 - name: Get your Tickets Free Now!!
   url: https://www.eventbrite.co.uk/e/global-game-jam-2019-at-goldsmiths-tickets-54704775456
 ---
