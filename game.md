@@ -23,6 +23,30 @@ description: |
   which contains lots of tools for prototyping tabletop games (such as cards, counters
   and meeples).</p><p>Whatever your skil level, Global Game Jam at Goldsmiths is accessible
   to you.</p>
+  <div class="schedule">
+  <h3>Friday</h3>
+  <p><b>14:00</b> Arrival & registration</p>
+  <p><b>14:00-16:00</b> Welcome Talks</p>
+  <p><b>16:30</b>Games Maker's Showcase</p>
+  <p><b>17:00</b>Global Game Jam Keynote</p>
+  <p><b>18:00</b>Theme Announcement</p>
+  <p><b>19:00</b>Dinner</p>
+  </div>
+
+  <div class="schedule">
+  <h3>Saturday</h3>
+  <p><b>10:00 - 11:00</b>Workshop - Unity Feedback Sessions. Liz Mercuri from Unity will be on hand to give feedback and suggestions on work in progress.</p>
+  <p><b>12:00 - 13:00</b>Workshop -  Ducks & Pants, branching narratives & Twine. Led by Raymond Vermuelen.</p>
+  <p><b>13:00</b> Lunch</p>
+  <p><b>14:00</b> Workshop - Foundry. Representatives from the Foundry will be on hand to give a session on using their technolgy to bring your visual creations to life</p>
+  <p><b>18:00</b> Dinner</p>
+  <br><h3>Sunday</h3>
+  <p><b>08:00</b> Breakfast</p>
+  <p><b>12:00</b> Hacking ends</p>
+  <p><b>12:00</b> Lunch</p>
+  <p><b>13:00</b> Show & Tell</p>
+  <p><b>15:00</b> Event end</p>
+  </div>-->
 supporters:
 - name: goldsmiths
 - name: doc
@@ -34,6 +58,8 @@ buttons:
   url: https://medium.com/hacksmiths/global-game-jam-2018-at-goldsmiths-a-retrospective-e64334e69511
 - name: 2017 Highlights
   url: https://storify.com/jeremygow/goldsmiths-global-game-jam-2017
+- name: Check out the Schedule
+  url: 
 - name: Get your Tickets Free Now!!
   url: https://www.eventbrite.co.uk/e/global-game-jam-2019-at-goldsmiths-tickets-54704775456
 ---
