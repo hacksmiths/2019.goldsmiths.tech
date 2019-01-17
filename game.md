@@ -26,7 +26,7 @@ description: |
   <div class="schedule">
   <h3>Friday</h3>
   <p><b>14:00</b> Arrival & registration</p>
-  <p><b>14:00-16:00</b> Welcome Talks</p>
+  <p><b>14:10</b> Welcome Talks</p>
   <p><b>16:30</b>Games Maker's Showcase</p>
   <p><b>17:00</b>Global Game Jam Keynote</p>
   <p><b>18:00</b>Theme Announcement</p>
@@ -36,7 +36,7 @@ description: |
   <div class="schedule">
   <h3>Saturday</h3>
   <p><b>10:00 - 11:00</b>Workshop - Unity Feedback Sessions. Liz Mercuri from Unity will be on hand to give feedback and suggestions on work in progress.</p>
-  <p><b>12:00 - 13:00</b>Workshop -  Ducks & Pants, branching narratives & Twine. Led by Raymond Vermuelen.</p>
+  <p><b>12:00 - 13:00</b>Workshop -  Ducks & Pants, branching narratives & Twine. Led by Raymond Vermuelen. This hands-on workshop teaches the basics of writing branching stories using the Twine platform, and serves as a primer on interactive fiction for writers of all experience levels. If you've ever wanted to learn about writing stories with multiple endings, here's your chance.</p>
   <p><b>13:00</b> Lunch</p>
   <p><b>14:00</b> Workshop - Foundry. Representatives from the Foundry will be on hand to give a session on using their technolgy to bring your visual creations to life</p>
   <p><b>18:00</b> Dinner</p>
@@ -46,7 +46,7 @@ description: |
   <p><b>12:00</b> Lunch</p>
   <p><b>13:00</b> Show & Tell</p>
   <p><b>15:00</b> Event end</p>
-  </div>-->
+  </div>
 supporters:
 - name: goldsmiths
 - name: doc
