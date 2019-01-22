@@ -62,6 +62,7 @@
   line: A social for women and non binary people interested in creative tech
   date: 5 December 2018
   url: /lovelace
+  past: true
 
 - name: Global Game Jame 2019
   line: Get together and create games in one weekend at Goldsmiths, University of London.
