@@ -4,10 +4,10 @@ date: 2019-02-13 00:00:00 Z
 layout: project
 projectname: career
 og: projects/career/og.png
-one_line: TBD
-tagline: TBD
-description: <p>TBD</p>
-time: 10:00 Sat - 17:00 Sun
+one_line: Build lots of fun small projects, meet potential employers and have fun at Hack Your Future
+tagline: Hack Your way Up the Career Ladder!
+description: <p>Build lots of fun small projects, meet potential employers and have fun at Hack Your Future - a new experimental careers event run by Hacksmiths, the Computing Department and the Careers Department. Answer as many of our 75 challenges as possible in 4 hours - some are difficult, others are silly, but all of them will earn you points (and points mean prizes). If you have questions, email kevin.lewis@gold.ac.uk</p>
+time: TBD
 address: TBD
 hashtag: hackYourFuture
 supporters:
@@ -16,7 +16,7 @@ supporters:
 - name: goldsu
 show_support_text: true
 buttons:
-- name: Sponsorship Enquiries
+- name: Get your tickets Here
   url: "/contact"
 ---
 
@@ -27,12 +27,12 @@ buttons:
     <div class="row">
       <div class="col-md-4">
         <div class="text-block">
-          <h5>What is a hackathon?</h5>
-          <p>Hackathons are invention marathons for developers, designers, psychologists, researchers and more. During the event, participants ('hackers') will build projects that answer our challenges to build awesome creative projects.</p>
+          <h5>What are Hack-Olympic?</h5>
+          <p>Hack-Olympics are made up of a set of challenges that you and your team work to complete. Each of te Challenges has a set amount of points. Completing challenges earns more points for you and your team. The team with the most points at the end of the event wins.</p>
         </div>
         <div class="text-block">
-          <h5>Who owns the projects?</h5>
-          <p>All projects built at this event belongs completely to the teams. However, to generate the widest benefit from this event, we encourage attendees to provide Open Source licenses for the results of their work.</p>
+          <h5>What kind of challenges will there be?</h5>
+          <p>There will be a mix of challenges of varying difficulties. Some will be focussed around career development, tech skills and a few silly ones just for fun.</p>
         </div>
         <div class="text-block">
           <h5>What should I bring?</h5>
@@ -57,26 +57,18 @@ buttons:
           <p>You don’t need a team to take part; it’s perfectly acceptable to create a solo project. However, during the event itself, there will be opportunities to share ideas and connect with your fellow hackers to form a team. As organisers, we’ll do our best to encourage and facilitate teamwork across the weekend.</p>
         </div>
         <div class="text-block">
-          <h5>Do I have to stay overnight?</h5>
-          <p>No, it is not a requisite to stay over. If you would like to stay though, we'll have a small number of airbeds available. We recommend you bring sleeping bags, pillows, and a change of clothes.</p>
+          <h5>What's the deal with food?</h5>
+          <p>Snacks will be provided at the event. All dietary requirements will be considered and catered for - please make sure you provide this information upon registering.</p>
         </div>
       </div>
       <div class="col-md-4">
-        <div class="text-block">
-          <h5>Can I start before?</h5>
-          <p>While you can explore ideas before the event, you shouldn't start your project before the event itself and still enter the challenges. If you want to bring an existing project to the table, we encourage full disclosure and honesty.</p>
-        </div>
-        <div class="text-block">
-          <h5>What's the deal with food?</h5>
-          <p>All food across the weekend will be provided. That is: lunch and dinner on Saturday, breakfast and lunch on Sunday. All dietary requirements will be considered and catered for - please make sure you provide this information upon registering.</p>
-        </div>
         <div class="text-block">
           <h5>Is there a Code of Conduct?</h5>
           <p>Yes, and you must agree to it before attending. You can find it <a href="https://github.com/hacksmiths/code-of-conduct/blob/master/SEX.md">here</a>.</p>
         </div>
         <div class="text-block">
           <h5>Can I come if I'm under 18?</h5>
-          <p>Not to this one, sorry. Check out <a href="/craft">Code & Craft</a>.</p>
+          <p>Not to this one, sorry.</p>
         </div>
         <div class="text-block">
           <h5>I have another question</h5>
