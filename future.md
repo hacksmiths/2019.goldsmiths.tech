@@ -7,8 +7,9 @@ og: projects/career/og.png
 one_line: Build lots of fun small projects, meet potential employers and have fun at Hack Your Future
 tagline: Hack Your way Up the Career Ladder!
 description: <p>Build lots of fun small projects, meet potential employers and have fun at Hack Your Future - a new experimental careers event run by Hacksmiths, the Computing Department and the Careers Department. Answer as many of our 75 challenges as possible in 4 hours - some are difficult, others are silly, but all of them will earn you points (and points mean prizes). If you have questions, email kevin.lewis@gold.ac.uk</p>
-time: TBD
-address: TBD
+time: 14:00 - 18:00 Wednesday
+address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14
+  6AD
 hashtag: hackYourFuture
 supporters:
 - name: goldsmiths
@@ -27,8 +28,8 @@ buttons:
     <div class="row">
       <div class="col-md-4">
         <div class="text-block">
-          <h5>What are Hack-Olympic?</h5>
-          <p>Hack-Olympics are made up of a set of challenges that you and your team work to complete. Each of te Challenges has a set amount of points. Completing challenges earns more points for you and your team. The team with the most points at the end of the event wins.</p>
+          <h5>What is Hack Your Future?</h5>
+          <p>Hack Your Future will be made up of a set of challenges that you and your team work to complete. Each of the Challenges has a set amount of points. Completing challenges earns more points for you and your team. The team with the most points at the end of the event wins.</p>
         </div>
         <div class="text-block">
           <h5>What kind of challenges will there be?</h5>
