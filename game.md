@@ -3,6 +3,7 @@ title: Global Game Jam 2019
 when: 25-27 Jan 2019
 layout: project
 projectname: game
+past: true
 og: projects/game/og.png
 one_line: Spend a weekend building interactive playable experiences - both digital
   and tabletop. You'll get support from mentors and take part in a friendly show &
