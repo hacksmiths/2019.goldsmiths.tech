@@ -1,12 +1,13 @@
 ---
 title: Hack Your Future
 date: 2019-02-13 00:00:00 Z
+when: 13 Feb 2019
 layout: project
 projectname: career
 og: projects/career/og.png
 one_line: Build lots of fun small projects, meet potential employers and have fun at Hack Your Future
 tagline: Hack Your way Up the Career Ladder!
-description: <p>Build lots of fun small projects, meet potential employers and have fun at Hack Your Future - a new experimental careers event run by Hacksmiths, the Computing Department and the Careers Department. Answer as many of our 75 challenges as possible in 4 hours - some are difficult, others are silly, but all of them will earn you points (and points mean prizes). If you have questions, email kevin.lewis@gold.ac.uk</p>
+description: <p>Build lots of fun small projects, meet potential employers and have fun at Hack Your Future new experimental careers event run by Hacksmiths, the Computing Department and the Careers Department. Answer as many of our 75 challenges as possible in 4 hours - some are difficult, others are silly, but all of them will earn you points (and points mean prizes). If you have questions, email kevin.lewis@gold.ac.uk</p>
 time: 14:00 - 18:00 Wednesday
 address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14
   6AD
@@ -18,7 +19,7 @@ supporters:
 show_support_text: true
 buttons:
 - name: Get your tickets Here
-  url: "/contact"
+  url: "https://www.eventbrite.co.uk/e/hack-your-future-2019-tickets-55403327845"
 ---
 
 <hr>
