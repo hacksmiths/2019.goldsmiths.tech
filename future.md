@@ -1,10 +1,9 @@
 ---
 title: Hack Your Future
-date: 2019-02-13 00:00:00 Z
 when: 13 Feb 2019
 layout: project
-projectname: career
-og: projects/career/og.png
+projectname: future
+og: projects/future/og.png
 one_line: Build lots of fun small projects, meet potential employers and have fun at Hack Your Future
 tagline: Hack Your way Up the Career Ladder!
 description: <p>Build lots of fun small projects, meet potential employers and have fun at Hack Your Future new experimental careers event run by Hacksmiths, the Computing Department and the Careers Department. Answer as many of our 75 challenges as possible in 4 hours - some are difficult, others are silly, but all of them will earn you points (and points mean prizes). If you have questions, email kevin.lewis@gold.ac.uk</p>
