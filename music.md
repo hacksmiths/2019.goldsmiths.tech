@@ -1,7 +1,6 @@
 ---
 title: Music Hack Day London 2018
-when: 7-8 April 2018
-past: true
+when: TBC
 layout: project
 projectname: music
 og: og.png
@@ -15,21 +14,15 @@ description: |
   <p>At the hackathon over the weekend, you will use your technical and creative skills to make something wonderful, engaging and musical - anything you build will be awesome. We'll provide you with food, drink, electricity and internet, so that you can get on with the real work - making cool and engaging projects!</p>
   <p>As well as access to our carefully curated <a href="/hardware">Hacksmiths Hardware Lab</a>, expect support from mentors and even more useful workshops for the duration of the event.</p>
 buttons:
-- name: Get free tickets
-  url: https://www.eventbrite.co.uk/e/music-hack-day-london-2018-tickets-44154280642
+- name: Support this event
+  url: /contact
   type: primary
-- name: Schedule
-  url: https://docs.google.com/document/d/1R7Oc4MPKVGC82lxu435cGGNYVjghS07ojf6e28pqgfc/edit?usp=sharing
 show_support_text: true
 supporters:
 - name: goldsmiths
 - name: doc
 - name: goldsu
-- name: github
-- name: mfy
-- name: spotify
-- name: twilio
-- name: roli
+
 ---
 <hr>
 <section class="project-faq">

@@ -78,4 +78,11 @@
 - name: Anvil Hack V
   line: Our annual student hackathon focussing on creative digital art.
   date: TBC
-  url: /anvil 
+  url: /anvil
+
+- name: Music Hack Day London 2019
+  line: Experiment with music and develop ideas for the future.
+  date: TBC
+  url: /music
+  
+  
