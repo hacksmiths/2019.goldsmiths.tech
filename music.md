@@ -1,6 +1,6 @@
 ---
-title: Music Hack Day London 2018
-when: TBC
+title: Music Hack Day London 2019
+when: 8-9 June 2019
 layout: project
 projectname: music
 og: og.png
