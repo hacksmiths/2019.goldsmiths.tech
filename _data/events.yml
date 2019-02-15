@@ -74,6 +74,7 @@
   line: Build lots of fun small projects, meet potential employers and have fun at Hack Your Future
   date: 13 February 2019
   url: /future
+  past: true
 
 - name: Anvil Hack V
   line: Our annual student hackathon focussing on creative digital art.

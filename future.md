@@ -1,6 +1,7 @@
 ---
 title: Hack Your Future
 when: 13 Feb 2019
+past: true
 layout: project
 projectname: future
 og: projects/future/og.png
@@ -15,10 +16,16 @@ supporters:
 - name: goldsmiths
 - name: doc
 - name: goldsu
+- name: careers
+- name: twilio
+- name: amex
+- name: kin
+- name: ttgames
+
 show_support_text: true
 buttons:
-- name: Get your tickets Here
-  url: "https://www.eventbrite.co.uk/e/hack-your-future-2019-tickets-55403327845"
+- name: Support this event in 2020
+  url: /contact
 ---
 
 <hr>
