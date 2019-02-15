@@ -1,6 +1,6 @@
 ---
 title: Anvil Hack V
-when: TBC
+when: 16-17 March 2019
 layout: project
 projectname: anvil
 og: projects/anvil/og.png
