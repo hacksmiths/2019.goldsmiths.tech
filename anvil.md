@@ -15,6 +15,8 @@ description: |
 buttons:
 - name: Anvil Hack III Highlights
   url: https://storify.com/_phzn/anvilhackiii
+- name: Get Your Tickets Now!
+  url: https://www.eventbrite.co.uk/e/anvil-hack-v-tickets-57926741443
 show_support_text: true
 supporters:
 - name: goldsmiths
